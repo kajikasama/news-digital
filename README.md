@@ -2,12 +2,12 @@
 
 installing required for node_modules
 ```bash
-$ npm i -g npm
+npm i -g npm
 ```
 
 installing vendor from composer
 ```bash
-$ composer install
+composer install
 ```
 
 rename file ```.env.example```
@@ -18,13 +18,13 @@ to ```.env```
 launch the app with 2 terminal 
 
 ```bash
-$ npm install
+npm install
 ```
 
 and
 
 ```bash
-$ php artisan serve
+php artisan serve
 ```
 
 go to http://127.0.0.1 /
